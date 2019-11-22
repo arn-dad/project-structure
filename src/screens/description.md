@@ -2,3 +2,9 @@
 ## Components that unique in application
 
 `Home, Login, Nav`
+
+Structure
+
+-Home
+  -index.js
+  -styles.css
