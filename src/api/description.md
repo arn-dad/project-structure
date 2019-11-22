@@ -2,7 +2,7 @@
 
 create class for each endpoint 
 
-`PEOPOLE`
+`PEOPLE`
 [GET]: https://it-blog-posts.herokuapp.com/api/people
 
 `POSTS`
