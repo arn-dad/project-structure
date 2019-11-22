@@ -7,3 +7,10 @@ create class for each endpoint
 
 `POSTS`
 [GET]: https://it-blog-posts.herokuapp.com/api/posts
+
+
+Structure
+
+  -index.js [API class]
+  -people.js [peope endpoint class]
+  -posts.js [posts endpoint class]
