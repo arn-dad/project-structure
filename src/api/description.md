@@ -1,4 +1,4 @@
-## API implementaion
+## API implementation
 
 create class for each endpoint 
 
