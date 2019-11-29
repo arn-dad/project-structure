@@ -3,7 +3,10 @@
 create class for each endpoint 
 
 `PEOPLE`
-[GET]: https://it-blog-posts.herokuapp.com/api/people
+Get people list       : [GET]  : https://it-blog-posts.herokuapp.com/api/people
+Get By Id             : [GET]  : https://it-blog-posts.herokuapp.com/api/people/{id}
+Log in                : [POST] : https://it-blog-posts.herokuapp.com/api/people/login
+Create (registration) : [POST] : https://it-blog-posts.herokuapp.com/api/people
 
 `POSTS`
 [GET]: https://it-blog-posts.herokuapp.com/api/posts
